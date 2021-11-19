@@ -1,0 +1,14 @@
+arch-install-scripts (useful tools?) X
+base (essential)
+diffutils (useful tool?) X
+inetutils (essential)
+logrotate (useful tool?) X
+man-db (useless tool?) X
+man-pages (useless tool?) X
+nano (useful tool)
+netctl (useless tool?) X
+sudo (useless tool?) X
+sysfsutils (useless tool?) X
+texinfo (useless tool?) X
+vi (useless tool?) X
+which (useless tool?) X

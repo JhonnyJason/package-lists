@@ -1,0 +1,15 @@
+base (essential)
+cloud-init (useless tool?) X
+haveged (useful tool) = random number generator
+inetutils (essential?)
+iotop (useful tool?) X
+lsof (useful tool?) X
+man-db (useless tool?) X
+man-pages (useless tool?) X
+mtr (useful tool?) X
+nano (useful tool)
+net-tools (useful tools?) X
+openssh (useful tool) X
+sysstat (useful tool?) X
+vim (potentially seless tool?) X
+whois (useless tool) X
